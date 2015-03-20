@@ -397,7 +397,7 @@ hr {
     height: 40px;
     line-height: 40px;
     text-align: center;
-    background: #3bbec0;
+    background: #ffa300;
 	color: #fff;
     -webkit-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
@@ -489,7 +489,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
     height: 40px;
     line-height: 40px;
     text-align: center;
-    background: #3bbec0;
+    background: #ffa300;
 	color: #fff;
     -webkit-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
